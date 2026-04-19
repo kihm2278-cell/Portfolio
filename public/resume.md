@@ -9,7 +9,7 @@
 ## EDUCATION
 
 **Purdue University, West Lafayette**  
-Bachelor's degree in Mechanical Engineering  
+Bachelor&apos;s degree in Mechanical Engineering  
 **Anticipated Graduation:** MAY 2026  
 **GPA:** 3.23
 
@@ -37,7 +37,7 @@ Bachelor's degree in Mechanical Engineering
 
 ### Materials Testing and Analysis — Mechanics of Materials Study
 
-- Performed tensile, torsion, bending, and spring tests with Instron UTM to determine material properties including Young's modulus, yield strength, strain at fracture, ultimate tensile strength, and shear modulus.
+- Performed tensile, torsion, bending, and spring tests with Instron UTM to determine material properties including Young&apos;s modulus, yield strength, strain at fracture, ultimate tensile strength, and shear modulus.
 - Applied Finite Element Analysis (FEA) and experimental methods to study stress concentrations, beam deflections, and 3D printed structures under load.
 - Developed MATLAB programs for regression, optimization, and automated plotting of experimental and simulation data.
 - Validated results with theoretical models and statistical confidence intervals, accounting for error sources such as misalignment, vibrations, and shear effects.
